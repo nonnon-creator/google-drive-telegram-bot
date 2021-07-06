@@ -1,5 +1,5 @@
 {
-  "name": "Personal_Uploader",
+  "name": "GDrive-Uploader-Bot",
   "description": "Telegram/Direct Links to GDrive Uploader Bot",
   "repository": "https://github.com/viperadnan-git/google-drive-telegram-bot",
   "logo": "https://telegra.ph/file/8669281aa2360613f7511.jpg",
@@ -24,7 +24,7 @@
     },
     "SUPPORT_CHAT_LINK": {
       "description": "Support Chat link in valid url format.",
-      "value": "https://t.me/makemetick"
+      "value": "https://viperadnan-git.github.io"
     },
     "DOWNLOAD_DIRECTORY": {
       "description": "Custom path for downloads. Must end with a forward slash.",
@@ -47,7 +47,7 @@
       "url": "heroku/python"
     },
     {
-      "url": "https://github.com/viperadnan-git/google-drive-telegram-bot"
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
     }
   ]
 }
